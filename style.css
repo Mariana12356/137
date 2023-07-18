@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(155, 155, 255);
+    text-align: center;
+    color:white;
+}
+
+.heading{
+    width:95%;
+    padding: 0;
+    padding-top:20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #c0c6ff;
+    color:white ;
+    border: 10px solid white;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+canvas {
+    border: 10px solid white;
+    border-radius: 20px;
+    box-shadow: 20px 20px 20px rgb(132, 124, 250);
+    margin-top: 20px;
+    position: absolute;
+    bottom: 50;
+}
+
+button{
+    border: 5px solid white;
+    border-radius: 20px;
+    padding: 10px;
+    background-color: #c0c6ff;
+    color: white;
+}
